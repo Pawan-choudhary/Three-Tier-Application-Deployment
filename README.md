@@ -1,4 +1,4 @@
-# #TWSThreeTierAppChallenge
+#ThreeTierAppChallenge
 
 ## Overview
 
